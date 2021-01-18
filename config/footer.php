@@ -1,0 +1,3 @@
+<footer style="color: red; text-align: center;">
+    matheroli-mcland.000webhostapp.com and Firesoft, Copyright 2021 &copy;, Mentions légales et droits d'auteurs pour les logiciels disponibles <a href="https://www.legalstart.fr/fiches-pratiques/proteger-une-creation/protection-logiciel/#ancre2" target="_BLANK">ici</a>. Emojis par <a href="https://flaticon.com" target="_BLANK">Flaticon</a>.
+</footer>
