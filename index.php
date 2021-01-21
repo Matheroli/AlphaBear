@@ -39,5 +39,4 @@ Certaines pages ont été réalisées grâce aux templates de https://freefronte
     body{background: linear-gradient(to right, red,orange);height: 100%;}
 </style>
 </body>
-<!-- <?php include("../config/footer.php"); ?> -->
 </html>
