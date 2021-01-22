@@ -1,6 +1,6 @@
-# BlueBear [![Discord](assets/bear.png)](https://discord.gg/8HUqgnw)
+# BlueBear
 
-[<img src="assets/bear.png" align="right" width="100">](https://electronjs.org)
+[<img src="assets/bear.png" align="right" width="100">](https://discord.gg/8HUqgnw)
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 
