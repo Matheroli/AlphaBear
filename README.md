@@ -1,6 +1,6 @@
-# Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# BlueBear [![Discord](https://github.com/Matheroli/SiteWeb/assets/bear.png)](https://discord.gg/8HUqgnw)
 
-[<img src="assets/bear" align="right" width="100">](https://electronjs.org)
+[<img src="assets/bear.png" align="right" width="100">](https://electronjs.org)
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 
