@@ -1,4 +1,4 @@
-# BlueBear [![Discord](https://github.com/Matheroli/SiteWeb/assets/bear.png)](https://discord.gg/8HUqgnw)
+# BlueBear [![Discord](assets/bear.png)](https://discord.gg/8HUqgnw)
 
 [<img src="assets/bear.png" align="right" width="100">](https://electronjs.org)
 
