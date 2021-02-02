@@ -11,7 +11,7 @@
   </head>
   <body>
     <?php 
-    include("config/menu-nav.php")
+    include("config/menu-nav.html")
     ?>
     <section class="section-plans" id="section-plans">
       <div class="u-center-text u-margin-bottom-big">
