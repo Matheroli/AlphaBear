@@ -45,10 +45,6 @@ Certaines pages ont été réalisées grâce aux templates de https://freefronte
     <?php
     include("config/menu-nav.html")
     ?>
-    <div class="alert alert-info alert-dismissible fade show">
-        <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <strong>Info!</strong> This alert box could indicate a neutral informative change or action.
-    </div>
     <iframe src="https://fr.euronews.com/embed/timeline" scrolling="no" style="border:none; min-height:425px; width:100%; height:100%;"></iframe>
 <style>
     h1, .paragraphe{color: rgb(0, 255, 213);text-align: center;}
