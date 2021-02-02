@@ -18,7 +18,7 @@ Certaines pages ont été réalisées grâce aux templates de https://freefronte
     <meta charset="utf-8">
     <link rel="shortcut icon" type="image/png" href="assets/bear1.png"/>
     <?php
-    include("config/librairies.php");
+    include("config/librairies.html");
     ?>
 </head>
 <body>
@@ -43,7 +43,7 @@ Certaines pages ont été réalisées grâce aux templates de https://freefronte
     gtag('config', 'G-1616K2DP9H');
     </script>
     <?php
-    include("config/menu-nav.php")
+    include("config/menu-nav.html")
     ?>
     <div class="alert alert-info alert-dismissible fade show">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
