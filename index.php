@@ -17,6 +17,9 @@ Certaines pages ont été réalisées grâce aux templates de https://freefronte
     <title>AlphaBear | Accueil</title>
     <meta charset="utf-8">
     <link rel="shortcut icon" type="image/png" href="assets/bear1.png"/>
+    <?php
+    include("config/librairies.php");
+    ?>
 </head>
 <body>
     <h1><u>Bienvenue sur mon site !!</u></h1>
@@ -27,7 +30,7 @@ Certaines pages ont été réalisées grâce aux templates de https://freefronte
             <a href="https://discord.gg/8HUqgnw" target="_BLANK"><img width="75" height="75" src="assets/discord.png"></a>
         </div>
         <div class="link">
-            <a href="https://github.com/Matheroli/SiteWeb#readme" target="_BLANK"><img width="75" height="75" src="assets/github.png"></a>
+            <a href="https://github.com/Matheroli/AlphaBearWebsite#readme" target="_BLANK"><img width="75" height="75" src="assets/github.png"></a>
         </div>
     </div>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -42,6 +45,10 @@ Certaines pages ont été réalisées grâce aux templates de https://freefronte
     <?php
     include("config/menu-nav.php")
     ?>
+    <div class="alert alert-info alert-dismissible fade show">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong>Info!</strong> This alert box could indicate a neutral informative change or action.
+    </div>
     <iframe src="https://fr.euronews.com/embed/timeline" scrolling="no" style="border:none; min-height:425px; width:100%; height:100%;"></iframe>
 <style>
     h1, .paragraphe{color: rgb(0, 255, 213);text-align: center;}
