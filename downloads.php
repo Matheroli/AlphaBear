@@ -15,6 +15,7 @@
     <div class="header">
         <h1 style="color: rebeccapurple; text-align: center;">Bonjour, l'application de bureau AlphaBear sera bientôt prête pour les utilisateurs Windows...</h1>
         <p id="paragraphe"></p>
+        <?php echo "<p style='color: rebeccapurple; text-align: center;'>Vous êtes actuellement sur $os !</p>" ?>
         <img src=<?php echo $img; ?> class="img">
     </div>
 <!-- <a href="#" class="download">
