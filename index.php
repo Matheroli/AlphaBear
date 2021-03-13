@@ -6,21 +6,7 @@ Merci à pauldb09 qui m'a aidé pour Google Analytics et mettre le site en ligne
 Certaines pages ont été réalisées grâce aux templates de https://freefrontend.com
 -->
 <html lang="fr" dir="ltr">
-<head>
-    <meta property="og:type" content="article">
-    <meta property="og:image" content="https://matheroli-mcland.000webhostapp.com/assets/bear.png">
-    <meta property="og:title" content="Site Web de Matheroli">
-    <meta property="og:description" content="J'avais envie de créer un site web alors j'en ai fait un.">
-    <meta property="og:site_name" content="Site Web de Matheroli">
-    <meta property="og:url" content="https://matheroli-mcland.000webhostapp.com">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AlphaBear | Accueil</title>
-    <meta charset="utf-8">
-    <link rel="shortcut icon" type="image/png" href="assets/bear1.png"/>
-    <?php
-    include("config/librairies.html");
-    ?>
-</head>
+<?php include("config/header.php"); ?>
 <body>
     <h1><u>Bienvenue sur mon site !!</u></h1>
     <p class="paragraphe">Pour afficher le code source faites Ctrl+U</p>
