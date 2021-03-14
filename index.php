@@ -6,7 +6,7 @@ Merci à pauldb09 qui m'a aidé pour Google Analytics et mettre le site en ligne
 Certaines pages ont été réalisées grâce aux templates de https://freefrontend.com
 -->
 <html lang="fr" dir="ltr">
-<?php include("config/header.php"); ?>
+<?php include("config/header.html"); ?>
 <body>
     <h1><u>Bienvenue sur mon site !!</u></h1>
     <p class="paragraphe">Pour afficher le code source faites Ctrl+U</p>
